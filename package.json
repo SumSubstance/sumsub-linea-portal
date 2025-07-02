@@ -1,0 +1,14 @@
+{
+  "name": "sumsub-linea-portal",
+  "version": "1.0.0",
+  "description": "Official Sumsub Portal smart contract for identity verification attestations on Linea blockchain using Verax Registry",
+  "author": "Sumsub",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.14.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.3.0",
+    "@verax-attestation-registry/verax-contracts": "^10.0.0"
+  }
+}
