@@ -4,7 +4,13 @@
   "description": "Official Sumsub Portal smart contract for identity verification attestations on Linea blockchain using Verax Registry",
   "author": "Sumsub",
   "license": "MIT",
+  "scripts": {
+    "compile": "hardhat compile",
+    "verify": "hardhat verify --network linea --constructor-args arguments.ts"
+  },
   "devDependencies": {
+    "@nomicfoundation/hardhat-verify": "^2.0.14",
+    "dotenv": "^17.0.1",
     "hardhat": "^2.14.0"
   },
   "dependencies": {
