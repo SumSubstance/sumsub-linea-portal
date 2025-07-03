@@ -56,7 +56,7 @@ The main contract is located at `contracts/SumsubPortalV3.sol`.
 
 ✅ **Contract is verified on Lineascan**
 
-View verified contract: https://lineascan.build/address/0x501e742cf30ece300e3e8cb45a975c15057d5b46
+View verified contract: https://lineascan.build/address/0x501e742cf30ece300e3e8cb45a975c15057d5b46#code
 
 ## License
 
